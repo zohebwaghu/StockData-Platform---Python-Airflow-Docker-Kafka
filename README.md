@@ -54,5 +54,3 @@ Next steps
 - Add CI for lint/tests and Docker image builds.
 - Add data quality checks (Great Expectations/dbt tests).
 - Expose dashboards (e.g., Superset/Metabase) over the warehouse.
-
-
